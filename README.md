@@ -109,16 +109,3 @@ Desarrollo de aplicaciones durante la formación en DAW utilizando diferentes te
 * Consumo y desarrollo de APIs REST
 * Control de versiones con Git
 
-
-## 📜 Certificaciones Destacadas
-
-- Cisco CCNP (Cisco Certified Network Professional)
-- Cisco CCNA & CCNA Security
-- Python Certification
-
----
-
-## 📬 Contacto
-
-- 💼 LinkedIn: [https://www.linkedin.com/in/patricia-g%C3%B3mez-selles-b741b050/]
-- 📧 Email: patricia.gsbcn@gmail.com
