@@ -38,15 +38,14 @@ Actualmente desarrollo soluciones combinando entornos frontend y backend con PHP
 - WordPress
 - Prestashop
 
-**Constructores y Temas**
+### Ecosistema WordPress
+
 - Elementor
 - WPBakery
 - Oxygen Builder
 - Jupiter X
-
-**Plugins**
-- Polylang
-- MainWP
+- Polylang (multidioma)
+- MainWP (administración centralizada)
 
 ### Herramientas
 - Git / GitHub
