@@ -34,17 +34,35 @@ Actualmente desarrollo soluciones combinando entornos frontend y backend con PHP
 
 ### CMS y eCommerce
 
-* WordPress
-* Elementor
-* WPBakery
-* Prestashop
+**CMS**
+- WordPress
+- Prestashop
+
+**Constructores y Temas**
+- Elementor
+- WPBakery
+- Oxygen Builder
+- Jupiter X
+
+**Plugins**
+- Polylang
+- MainWP
 
 ### Herramientas
+- Git / GitHub
+- GitHub Projects
+- Jira
+- Confluence
+- Postman
+- Visual Studio Code
+- XAMPP
+- Symfony CLI
 
-* Git / GitHub
-* Postman
-* Docker
-* Visual Studio Code
+### Colaboración y Gestión
+- Control de versiones con Git
+- Gestión de tareas con GitHub Projects
+- Gestión de incidencias (Issues)
+- Pull Requests y revisión de código
 
 ---
 
